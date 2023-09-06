@@ -15,7 +15,6 @@
 15. Designed ID cards for Techfest ( 50+ cards)
 
 UI Design
-
 Techfest ( screens-Mobile & web)
 a. Landing page (2)
 b. Contact us (2)
@@ -33,7 +32,8 @@ Blog page
 Valentine's Day UI Design
      a. Home page ( 2 screens -Mobile & web)
      b. Connect page ( 2 screens -Mobile & web)
-     c. send request page ( 2 screen -Mobile & web))
+     c. send request page ( 2 screen -Mobile & web)
+
 
      
 Poster Design:-
