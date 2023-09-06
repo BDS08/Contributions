@@ -16,16 +16,16 @@
 
 UI Design
 
-1.) Techfest
-a. Landing page ( 2 screens -Mobile & web)
-b. Contact us ( 2 screens -Mobile & web)
-c. about us ( 2 screens -Mobile & web)
-d. user login ( 2 screens -Mobile & web)
-e. user register ( 2 screens -Mobile & web)
-f. admin register ( 2 screens -Mobile & web)
-g. admin login ( 2 screens -Mobile & web)
-h. Competition list page ( 2 screens -Mobile & web)
-i. Event register page  ( 2 screens -Mobile & web)
+Techfest
+1.Landing page ( 2 screens -Mobile & web)
+2. Contact us ( 2 screens -Mobile & web)
+3 About us ( 2 screens -Mobile & web)
+4 User login ( 2 screens -Mobile & web)
+5 User register ( 2 screens -Mobile & web)
+6 Admin register ( 2 screens -Mobile & web)
+7 Admin login ( 2 screens -Mobile & web)
+8 Competition list page ( 2 screens -Mobile & web)
+9 Event register page  ( 2 screens -Mobile & web)
 
 2.) Landing page ui design( Home page HnCC, Christmas theme)
 3.) Blog page 
