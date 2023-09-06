@@ -63,6 +63,9 @@ Poster Design:-
 13. edited HnCC logo for 15 August
 14. New Year poster 
 15. Designed techfest items
-      a. banners
-      b. posters
-      c. cards
+
+    a. banners
+    
+    b. posters
+    
+    c. cards
