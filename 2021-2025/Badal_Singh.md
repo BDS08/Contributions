@@ -26,14 +26,15 @@ f. admin register ( 2 screen -Mobile & web)
 g. admin login ( 2 screen -Mobile & web)
 h. Competition list page ( 2 screen -Mobile & web)
 i. Event register page  ( 2 screen -Mobile & web)
+
 2.) Landing page ui design( Home page HnCC, Christmas theme)
 3.) Blog page 
-     a. Blog list page 
-     b. Blog details page
+a. Blog list page 
+b. Blog details page
 4.) Valentine's Day UI Design
-     a. Home page ( 2 screens -Mobile & web)
-     b. Connect page ( 2 screens -Mobile & web)
-     c. send request page ( 2 screen -Mobile & web)
+a. Home page ( 2 screens -Mobile & web)
+b. Connect page ( 2 screens -Mobile & web)
+c. send request page ( 2 screen -Mobile & web)
 
      
 Poster Design:-
