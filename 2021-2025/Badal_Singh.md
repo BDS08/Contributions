@@ -13,6 +13,7 @@
 13. Certificate design for different events
 14. Contribute to Hoodie and t-shirt design & selling 
 15. Designed ID cards for Techfest ( 50+ cards)
+16. I worked in promoting and marketing of all the events in all the branches of the batch.
 
 UI Design
 
