@@ -36,12 +36,15 @@ UI Design
  h. Competition list page (2)
  
  i. Event register page  (2)
+
  
-3. Landing page UI design( Home page HnCC, Christmas theme)
-4. Blog page 
+2. Landing page UI design( Home page HnCC, Christmas theme)
+   
+3. Blog page 
      a. Blog list page 
      b. Blog details page
-5. Valentine's Day UI Design
+   
+4. Valentine's Day UI Design
      a. Home page ( 2 screens -Mobile & web)
      b. Connect page ( 2 screens -Mobile & web)
      c. send request page ( 2 screen -Mobile & web)
